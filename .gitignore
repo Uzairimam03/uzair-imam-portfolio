@@ -17,7 +17,7 @@ dist-ssr
 .env.*  # optional: ignore all env variants like .env.local, .env.production
 
 # Ignore generated resume or files you don't want committed
-public/Uzair-Imam-Cv.pdf
+
 
 # Editor settings
 .vscode/*
