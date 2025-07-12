@@ -22,3 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+.env
+./public/Uzair-Imam-Cv.pdf
