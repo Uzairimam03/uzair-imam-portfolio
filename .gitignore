@@ -7,12 +7,19 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Dependency directories
 node_modules
 dist
 dist-ssr
-*.local
 
-# Editor directories and files
+# Local environment files
+.env
+.env.*  # optional: ignore all env variants like .env.local, .env.production
+
+# Ignore generated resume or files you don't want committed
+public/Uzair-Imam-Cv.pdf
+
+# Editor settings
 .vscode/*
 !.vscode/extensions.json
 .idea
@@ -22,5 +29,4 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-.env
-./public/Uzair-Imam-Cv.pdf
+
