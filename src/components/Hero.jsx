@@ -125,7 +125,7 @@ export const Hero = () => {
   role: "Fullstack Web Sorcerer",
   stack: {
     languages: ["JavaScript", "TypeScript", "SQL"],
-    frameworks: ["React", "Node.js", "TailwindCSS", "Supabase"],
+    frameworks: ["React", "Node.js", "TailwindCSS", "MongoDB"],
   },
   traits: [
     "pixel-perfectionist",
