@@ -60,7 +60,7 @@ export const Hero = () => {
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
               >
-                Download Resume
+                Download CV
               </motion.a>
 
               <motion.a
