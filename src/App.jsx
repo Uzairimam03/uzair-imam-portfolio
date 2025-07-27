@@ -23,7 +23,7 @@ function App() {
     <Contact/>
 
     <>
-    <p>
+    <p className="p">
   &copy; Developed Portfolio By:{' '}
   <span style={{ color: ' #16f2b3', fontWeight: 'bold' }}>Muhammad Uzair Imam</span>
 </p>
