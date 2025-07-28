@@ -148,7 +148,7 @@ export const Projects = () => {
             </div>
           </motion.div>
         </motion.a>
-        <motion.a
+        {/* <motion.a
           href="https://realtime-chat-app-rtww.onrender.com/"
           target="_blank"
           rel="noopener noreferrer"
@@ -183,7 +183,7 @@ export const Projects = () => {
               <span>Socket.IO</span>
             </div>
           </motion.div>
-        </motion.a>
+        </motion.a> */}
       </motion.div>
     </motion.section>
   );
