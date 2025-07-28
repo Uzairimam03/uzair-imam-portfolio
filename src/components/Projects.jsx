@@ -34,10 +34,11 @@ export const Projects = () => {
       </motion.h2>
 
            <motion.h3
+          
         variants={fadeInUp}
         initial="initial"
         whileInView="animate"
-        className="h3"
+        className="h2"
         viewport={{ once: true }}
       >
         Click To See Live 
@@ -129,7 +130,7 @@ export const Projects = () => {
             <motion.div
               className="project-image"
               style={{
-                backgroundImage: "url('/projects/Firebase-kotlin.png')",
+                backgroundImage: "url('/projects/Firebase-kotlin.webp')",
               }}
               whileHover={{ scale: 1.05 }}
               transition={{ duration: 0.2 }}

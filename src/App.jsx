@@ -25,7 +25,7 @@ function App() {
     <>
     <p className="p">
   &copy; Developed Portfolio By:{' '}
-  <span style={{ color: ' #16f2b3', fontWeight: 'bold' }}>Muhammad Uzair Imam</span>
+  <span style={{ color: '  #f472b6', fontWeight: 'bold' }}>Muhammad Uzair Imam</span>
 </p>
 
       
