@@ -255,8 +255,14 @@ body {
 }
 
 .social-links a:hover {
-  color: var(--accent-color);
+  color:#61DBFB;
 }
+
+.social-links .github:hover{
+  color: black;
+}
+  
+
 
 .floating-card {
   position: absolute;
@@ -356,6 +362,10 @@ display: none;
    text-align:center;
   font-size: 1.3rem;
  margin-bottom: 1rem;
+  color: #f472b6;
+}
+
+.h2-contact:hover{
   color: #f472b6;
 }
 

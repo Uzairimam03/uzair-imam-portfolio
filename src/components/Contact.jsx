@@ -95,6 +95,7 @@ export const Contact = () => {
         initial="initial"
         animate="animate"
         viewport={{ once: true }}
+        className="h2-contact"
       >
         Get in Touch
       </motion.h2>
