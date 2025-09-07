@@ -52,7 +52,7 @@ export const Projects = () => {
         viewport={{ once: true }}
       >
         <motion.a
-          href="https://crudapp-production-f446.up.railway.app/"
+          href="https://crud-app-dtxq.onrender.com/"
           target="_blank"
           rel="noopener noreferrer"
           className="project-card block cursor-pointer no-underline"
