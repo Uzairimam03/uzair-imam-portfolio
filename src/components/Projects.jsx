@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import { motion } from "framer-motion";
 
 const fadeInUp = {
@@ -150,7 +151,7 @@ export const Projects = () => {
           </motion.div>
         </motion.a>
         <motion.a
-          href="https://realtime-chat-app-rtww.onrender.com/"
+          href="https://realtime-chat-app-ten-alpha.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
           className="project-card block cursor-pointer no-underline"
